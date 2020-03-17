@@ -57,9 +57,6 @@ $(function(){
       $('#menu').stop(true).animate({
         opacity: 0
       });
-      $('#menu').css({
-        display: 'none'
-      });
     };
   })
    $('.menu-button').on('click', function(){
