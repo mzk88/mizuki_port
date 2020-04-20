@@ -58,7 +58,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #000000;
+  color: #333333;
 }
 
 div#wrapper {
@@ -103,7 +103,7 @@ header nav ul li a::after {
   content: "";
   width: 0%;
   height: 2px;
-  background: #000;
+  background: #333333;
   transition: all 0.2s cubic-bezier(0.455, 0.03, 0.515, 0.955);
 }
 
@@ -432,7 +432,7 @@ h3.theme {
   font-family: source-han-sans-japanese, sans-serif;
   font-weight: 700;
   font-style: normal;
-  color: #000000;
+  color: #333333;
   width:50rem;
   margin-top: 5rem;
   margin-left: auto;
